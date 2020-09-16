@@ -1,2 +1,2 @@
-# Grandes obras de la literatura universal
-De momento tenemos literatura española, francesa e italiana.
+# Literatura
+A todo el mundo le gusta leer un buen libro ¿Verdad?
