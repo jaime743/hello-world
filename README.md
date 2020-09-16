@@ -1,4 +1,2 @@
-# hello-world
-Just another repository
-
-Hello Everybody. I'm following the Hello World tutorial.
+# Grandes obras de la literatura universal
+De momento tenemos literatura española, francesa e italiana.
